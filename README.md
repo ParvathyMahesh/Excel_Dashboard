@@ -6,7 +6,7 @@ An interactive **Microsoft Excel Dashboard** designed to monitor IT Service Desk
 
 ## 📊 Dashboard Preview
 
-![IT Service Desk Dashboard](Dashboard(1).png)
+!(Dashboard.png)
 
 ---
 
